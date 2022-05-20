@@ -53,7 +53,7 @@ master_doc = 'index'
 # -- Project information -----------------------------------------------------
 
 project = u'agroservices'
-copyright = u'Cecill-C INRAE/CIRAD'
+copyright = u'GPL-V3 INRAE/CIRAD'
 author = u'Marc Labadie, Christian Fournier, Christophe Pradal'
 
 # The name of the Pygments (syntax highlighting) style to use.
